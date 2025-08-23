@@ -399,3 +399,36 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# loadPeriod41
+app\
+archive\
+asset\
+configuration\
+data\
+diary\
+document\
+executable\
+experiment\
+fun\
+hazard\
+legal\
+library\
+link\
+log\
+material\
+multimedia\
+note\
+port\
+programming\
+quick\
+recording\
+session\
+task\
+temporary\
+vault\
+work\
+zip\
+
+# Extra
+private/protected/
