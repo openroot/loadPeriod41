@@ -400,7 +400,10 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-# loadPeriod41
+# loadPeriod41 - contract
+27234604974277599831522353134/private/protected/
+
+# loadPeriod41 - structure
 app/
 archive/
 asset/
@@ -429,6 +432,3 @@ temporary/
 vault/
 work/
 zip/
-
-# Extra
-private/protected/
