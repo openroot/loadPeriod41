@@ -29,3 +29,33 @@
 26.	work
 ::.	zip
 ----------------------------------------------------------------
+*	port
+..	area
+1.	assign
+2.	bill
+3.	capital
+4.	card
+5.	certificate
+6.	channel
+7.	cover
+8.	division
+9.	exchange
+10.	flag
+11.	key
+12.	list
+13.	network
+14.	offline
+15.	online
+16.	route
+17.	section
+18.	sector
+19.	segment
+20.	statement
+21.	token
+22.	transfer
+23.	transport
+24.	value
+25.	version
+26.	volume
+::.	voucher
+----------------------------------------------------------------
