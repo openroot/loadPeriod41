@@ -400,10 +400,10 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-# loadPeriod41 - contract
+# loadPeriod41 - Contract
 /27234604974277599831522353134/--loadPeriod41/2_02025-08-27_08-46-11_05-30_/private/protected/
 
-# loadPeriod41 - structure
+# loadPeriod41 - Structure
 /app/
 /archive/
 /asset/
