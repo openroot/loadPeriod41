@@ -1,29 +1,30 @@
-*	loadPeriod41: Alphabetical Threshold
-..	app
-1.	archive
-2.	asset
-3.	configuration
-4.	data
-5.	diary
-6.	document
-7.	executable
-8.	experiment
-9.	fun
-10.	hazard
-11.	legal
-12.	library
-13.	link
-14.	log
-15.	material
-16.	multimedia
-17.	note
-18.	port
-19.	programming
-20.	quick
-21.	recording
-22.	session
-23.	task
-24.	temporary
-25.	vault
-26.	work
-::.	zip
+*	..	1.	2.	3.	4.	5.	6.	7.	8.	9.	10.	11.	12.	13.	14.	15.	16.	17.	18.	19.	20.	21.	22.	23.	24.	25.	26.	::.
+*	app	archive	asset	configuration	data	diary	document	executable	experiment	fun	hazard	legal	library	link	log	material	multimedia	note	port	programming	quick	recording	session	task	temporary	vault	work	zip
+..	abstract	bank	account	areal	array	about	algorithm	amplify	absolute	activity	anomaly	advertisement	architecture	atmosphere	alert	alien	anime	address	area	addon	attachment	aside	add	admin	alarm	bean	analyse	appendix
+1.	accessibility	basket	authority	column	blob	biodata	assessment	bin	arrow	adventure	arbitrary	agency	backup	branch	attention	auxiliary	artwork	assert	assign	applet	border	backward	century	board	bag	body	assemble	binary
+2.	attribute	bracket	cable	cosmos	bool	blog	assignment	count	brush	celebration	caution	agreement	band	canonical	automatic	background	audio	basic	bill	application	bottom	badge	close	buy	bar	chain	build	check
+3.	class	bucket	charge	custom	database	break	chart	double	buffer	comedy	cheat	auction	bibliography	cheque	average	component	banner	compare	capital	assembly	centre	capture	cut	convert	batch	chip	business	content
+4.	container	cart	commercial	earth	diagram	calendar	copyright	dynamic	button	competition	clean	audit	bind	community	bad	compound	caption	construct	card	browser	change	compass	decade	debug	bit	complex	compile	contrast
+5.	device	circus	corporation	east	digit	character	correction	etc	constant	contest	clear	bid	book	connection	comment	dress	digital	contact	certificate	cellular	deep	decrement	expire	define	box	edge	conference	copy
+6.	dimension	classic	coupon	environment	duplicate	climate	decryption	even	end	creativity	complaint	bond	category	corner	commit	edition	documentary	currency	channel	client	freelance	direction	finite	deliver	cabinet	engine	delegate	directory
+7.	footer	culture	credit	facility	graph	continue	definition	line	filter	drama	corrupt	brand	design	diameter	context	electronic	figure	date	cover	cloud	high	flip	full	edit	circle	formula	demonstrate	extension
+8.	function	fairy	debit	feature	inverse	cron	description	loop	first	entertainment	delete	budget	dictionary	international	decline	flammable	graphics	default	division	code	immediate	forward	greet	event	cube	gateway	deploy	fraction
+9.	header	festival	download	field	invert	daily	deserialisation	merge	handle	epic	erase	case	documentation	joint	detail	foreign	image	destruct	exchange	computer	keyword	frequency	half	export	cylinder	identity	develop	fragment
+10.	hierarchy	heritage	due	galaxy	logo	day	email	move	hook	exhibition	error	company	entity	national	genuine	furniture	language	dialogue	flag	console	launch	increment	hour	find	discount	micro	drive	grade
+11.	information	hidden	endeavour	icon	map	display	encryption	odd	initial	feast	exception	contract	episode	nominee	good	house	lyric	draft	key	desktop	left	indication	indefinite	import	dot	mobile	duty	index
+12.	instrument	history	insurance	layer	matrix	generic	excel	pan	last	game	fraud	estate	group	original	head	inland	mail	law	list	electrical	low	instruction	minute	interpret	free	model	exercise	item
+13.	job	journey	inventory	mode	memory	home	exclusive	pop	medium	holiday	gamble	excise	hash	pagination	incline	light	movie	learn	network	form	profile	live	month	invoke	gross	nano	fund	label
+14.	meta	museum	ledger	north	miscellaneous	me	file	pull	message	magic	garbage	government	instance	path	issue	magazine	music	match	offline	framework	rank	macro	multiple	lease	large	negative	implement	locale
+15.	method	neighbourhood	machine	ocean	number	night	grammar	push	middle	passion	illegal	industry	measurement	perimeter	least	natural	photo	memorandum	online	grid	rapid	mass	open	pay	parallel	neutral	install	lock
+16.	module	orthodox	policy	option	numerical	passport	inclusive	put	next	play	malware	ink	object	portfolio	lens	parcel	photograph	order	route	interface	refresh	pause	party	ping	power	particle	invest	mark
+17.	namespace	park	product	packet	paragraph	personal	local	queue	paint	programme	piracy	license	package	postfix	mirror	pattern	picture	phone	section	microcontroller	release	player	paste	poll	pyramid	passphrase	manage	origin
+18.	office	platform	property	panel	point	plan	meaning	rotate	previous	puzzle	remove	organisation	register	prefix	moral	project	poster	phrase	sector	node	reminder	render	period	post	rectangle	password	manufacture	plain
+19.	operation	playlist	protocol	region	print	private	page	show	procedure	quiz	restrict	permit	secret	pseudo	notice	residence	practical	quote	segment	pipe	repeat	resume	phase	publish	round	pin	market	rough
+20.	process	reserve	signature	row	random	protected	privacy	skew	progress	remix	scam	plant	serial	radius	punctuation	scalar	slogan	rate	statement	plugin	reset	scape	quarter	rent	seed	positive	meet	sign
+21.	prototype	retrospective	stock	scale	reverse	public	remote	sort	record	spirit	spam	politics	series	reference	roll	science	song	raw	token	script	resolution	screen	second	save	small	range	practice	size
+22.	resource	stadium	tariff	setting	sentence	relation	serialisation	spike	scan	sport	spyware	promotion	set	share	sensor	shipment	sound	receipt	transfer	server	restart	signal	single	search	sphere	report	produce	step
+23.	syntax	standard	transaction	shape	string	role	sheet	stack	start	story	temper	scrutiny	stamp	shortcut	status	switch	store	review	transport	shell	right	skip	stage	sell	square	root	represent	symbol
+24.	tool	station	treasure	south	table	routine	spell	static	timestamp	tour	trash	security	structure	society	summary	tape	text	rule	value	terminal	supply	slash	subject	translate	star	scroll	service	tier
+25.	user	tradition	upload	style	textual	schedule	statistic	tilt	track	toy	trojan	shop	tag	span	tail	vector	theory	study	version	theme	top	stop	valid	trigger	sum	system	space	tip
+26.	utility	vintage	venture	universe	variable	season	template	triple	view	training	virus	tax	term	tube	verbose	vehicle	video	time	volume	tree	update	wave	week	use	total	timeline	test	title
+::.	vendor	wheel	warehouse	west	word	weather	thesaurus	zoom	zone	vacation	volatile	trade	ticket	world	warning	vulnerable	wallpaper	todo	voucher	web	upgrade	whole	year	vote	triangle	unique	verification	unit

@@ -400,35 +400,36 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-# loadPeriod41 - Contract
-/27234604974277599831522353134/--loadPeriod41/2_02025-08-27_08-46-11_05-30_/private/protected/
+# loadPeriod41
+/27234604974277599831522353134/--loadPeriod41/2_02025-08-27_08-46-11_05-30_/Formation38/Protected/
 
-# loadPeriod41 - Structure
-/app/
-/archive/
-/asset/
-/configuration/
-/data/
-/diary/
-/document/
-/executable/
-/experiment/
-/fun/
-/hazard/
-/legal/
-/library/
-/link/
-/log/
-/material/
-/multimedia/
-/note/
-/port/
-/programming/
-/quick/
-/recording/
-/session/
-/task/
-/temporary/
-/vault/
-/work/
-/zip/
+# loadPeriod41
+/loadPeriod41/0. loadPeriod41/
+/loadPeriod41/#. app/
+/loadPeriod41/1. archive/
+/loadPeriod41/2. asset/
+/loadPeriod41/3. configuration/
+/loadPeriod41/4. data/
+/loadPeriod41/5. diary/
+/loadPeriod41/6. document/
+/loadPeriod41/7. executable/
+/loadPeriod41/8. experiment/
+/loadPeriod41/9. fun/
+/loadPeriod41/10. hazard/
+/loadPeriod41/11. legal/
+/loadPeriod41/12. library/
+/loadPeriod41/13. link/
+/loadPeriod41/14. log/
+/loadPeriod41/15. material/
+/loadPeriod41/16. multimedia/
+/loadPeriod41/17. note/
+/loadPeriod41/18. port/
+/loadPeriod41/19. programming/
+/loadPeriod41/20. quick/
+/loadPeriod41/21. recording/
+/loadPeriod41/22. session/
+/loadPeriod41/23. task/
+/loadPeriod41/24. temporary/
+/loadPeriod41/25. vault/
+/loadPeriod41/26. work/
+/loadPeriod41/@. zip/
